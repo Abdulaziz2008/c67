@@ -1,2 +1,4 @@
 nobita
+gian
 doraemon
+suneo
